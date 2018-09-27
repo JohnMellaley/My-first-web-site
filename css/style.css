@@ -29,15 +29,15 @@ nav a:hover{
     color: #4a4a4f;
 }
 .card{
-    float:left;
+    float: left;
     width: 10%;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 .card a{
     text-align: center;
 }
 img {
-    width: 70%;
+    width: 100%;
 }
 h1{
     text-align: center;
